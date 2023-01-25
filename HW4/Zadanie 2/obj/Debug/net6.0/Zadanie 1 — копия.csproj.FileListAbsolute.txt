@@ -1,0 +1,30 @@
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\obj\Debug\net6.0\Zadanie 1 — копия.csproj.AssemblyReference.cache
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\obj\Debug\net6.0\Zadanie 1 — копия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\obj\Debug\net6.0\Zadanie 1 — копия.AssemblyInfoInputs.cache
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\obj\Debug\net6.0\Zadanie 1 — копия.AssemblyInfo.cs
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\obj\Debug\net6.0\Zadanie 1 — копия.csproj.CoreCompileInputs.cache
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\bin\Debug\net6.0\Zadanie 1 — копия.exe
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\bin\Debug\net6.0\Zadanie 1 — копия.deps.json
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\bin\Debug\net6.0\Zadanie 1 — копия.runtimeconfig.json
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\bin\Debug\net6.0\Zadanie 1 — копия.dll
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\bin\Debug\net6.0\Zadanie 1 — копия.pdb
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\obj\Debug\net6.0\Zadanie 1 — копия.dll
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\obj\Debug\net6.0\refint\Zadanie 1 — копия.dll
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\obj\Debug\net6.0\Zadanie 1 — копия.pdb
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\obj\Debug\net6.0\Zadanie 1 — копия.genruntimeconfig.cache
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 1 — копия\obj\Debug\net6.0\ref\Zadanie 1 — копия.dll
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\obj\Debug\net6.0\Zadanie 1 — копия.csproj.AssemblyReference.cache
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\obj\Debug\net6.0\Zadanie 1 — копия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\obj\Debug\net6.0\Zadanie 1 — копия.AssemblyInfoInputs.cache
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\obj\Debug\net6.0\Zadanie 1 — копия.AssemblyInfo.cs
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\obj\Debug\net6.0\Zadanie 1 — копия.csproj.CoreCompileInputs.cache
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\obj\Debug\net6.0\Zadanie 1 — копия.dll
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\obj\Debug\net6.0\refint\Zadanie 1 — копия.dll
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\obj\Debug\net6.0\Zadanie 1 — копия.pdb
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\bin\Debug\net6.0\Zadanie 1 — копия.exe
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\bin\Debug\net6.0\Zadanie 1 — копия.deps.json
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\bin\Debug\net6.0\Zadanie 1 — копия.runtimeconfig.json
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\bin\Debug\net6.0\Zadanie 1 — копия.dll
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\bin\Debug\net6.0\Zadanie 1 — копия.pdb
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\obj\Debug\net6.0\Zadanie 1 — копия.genruntimeconfig.cache
+C:\Users\super\Desktop\На семинаре\Seminar 4\Zadanie 2\obj\Debug\net6.0\ref\Zadanie 1 — копия.dll
