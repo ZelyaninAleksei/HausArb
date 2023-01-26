@@ -2,7 +2,7 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
-int UserNumEnter (string usernum)
+int UserNumEnter(string usernum)
 {
     System.Console.WriteLine(usernum);
     int enternum = Convert.ToInt32(Console.ReadLine());
@@ -14,8 +14,8 @@ int Erection(int usernum, int userDegree)
     int temp = usernum;
     for (int i = 2; i <= userDegree; i++)
     {
-    int a = usernum*temp;
-    temp = a;
+        int a = usernum * temp;
+        temp = a;
     }
     return temp;
 }

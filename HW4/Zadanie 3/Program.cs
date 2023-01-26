@@ -8,7 +8,7 @@ void Completion(int[] newnums, int size)
     Random rnd = new Random();
     for (int i = 0; i <= size - 1; i++)
     {
-        newnums[i] = rnd.Next(0, 10);
+        newnums[i] = rnd.Next(0, 100);
     }
 }
 
@@ -17,7 +17,7 @@ void Conclusion(int[] newnums, int size)
     for (int i = 0; i <= size - 1; i++)
     {
 
-        System.Console.Write(newnums[i]);
+        System.Console.WriteLine(newnums[i]);
 
     }
 }
