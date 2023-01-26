@@ -23,8 +23,17 @@ int Sum(int[] mymassiv, int size)
     return count;
 };
 
+void PrintMassiv(int[] mymassiv, int size)
+{
+    for (int i = 0; i <= size -1; i++)
+    {
+        System.Console.WriteLine($" Элекмент массива - {mymassiv[i]}");
+    }
+}
+
 int size = 4;
 int[] mymassiv = new int[size];
 Randomizer(mymassiv, size - 1);
 int itog = Sum(mymassiv, size - 1);
+PrintMassiv(mymassiv,size);
 System.Console.WriteLine($" Rоличество чётных чисел в массиве - {itog}");

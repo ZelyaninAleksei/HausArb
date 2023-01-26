@@ -6,8 +6,7 @@ void Randomizer(double[] massiv, int size)
     Random rnd = new Random();
     for (int i = 0; i <= size - 1; i++)
     {
-        massiv[i] = rnd.NextDouble()*20;
-        // System.Console.WriteLine($"------> {massiv[i]}");
+        massiv[i] = rnd.NextDouble() * 20;
     }
 }
 
@@ -33,8 +32,17 @@ double Itog(double[] massiv, int size)
     return itog;
 }
 
+void PrintMassiv(double[] mymassiv, int size)
+{
+    for (int i = 0; i <= size - 1; i++)
+    {
+        System.Console.WriteLine($" Элекмент массива -> {Math.Round(mymassiv[i], 2)}");
+    }
+}
+
 int size = 5;
 double[] massiv = new double[size];
 Randomizer(massiv, size);
 double result = Itog(massiv, size);
-System.Console.WriteLine($"Разница между максимальным и минимальным элементом массива составляет {result}");
+PrintMassiv(massiv, size);
+System.Console.WriteLine($"Разница между максимальным и минимальным элементом массива составляет {Math.Round(result, 2)}");

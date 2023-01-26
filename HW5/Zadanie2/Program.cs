@@ -11,7 +11,7 @@ void Randomizer(int[] mymassiv, int size)
     Random rnd = new Random();
     for (int i = 0; i <= size; i++)
     {
-        mymassiv[i] = rnd.Next(0, 50);
+        mymassiv[i] = rnd.Next(-100, 100);
     }
 }
 
@@ -22,16 +22,23 @@ int Sum(int[] mymassiv, int size)
     {
         if (i % 2 != 0)
         {
-            int a2 = suma;
-            a2 = a2 + mymassiv[i];
-            suma = a2;
+            suma = suma + mymassiv[i];
         }
     }
     return suma;
 };
 
-int size = 40;
+void PrintMassiv(int[] mymassiv, int size)
+{
+    for (int i = 0; i <= size -1; i++)
+    {
+        System.Console.WriteLine($" Элекмент массива -> {mymassiv[i]}");
+    }
+}
+
+int size = 4;
 int[] mymassiv = new int[size];
 Randomizer(mymassiv, size - 1);
 int itog = Sum(mymassiv, size - 1);
-System.Console.WriteLine($" Сумма элементов стоящих на нечётных позициях в массиве равна {itog}");
+PrintMassiv(mymassiv,size);
+System.Console.WriteLine($" Сумма элементов стоящих на нечётных позициях в массиве равна -> {itog}");
