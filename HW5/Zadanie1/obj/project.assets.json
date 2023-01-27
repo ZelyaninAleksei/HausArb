@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\super\\.nuget\\packages\\": {}
+    "C:\\Users\\Алексей\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie1\\Zadanie1.csproj",
+      "projectUniqueName": "C:\\Users\\Алексей\\Desktop\\GB\\HausArb\\HW5\\Zadanie1\\Zadanie1.csproj",
       "projectName": "Zadanie1",
-      "projectPath": "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie1\\Zadanie1.csproj",
-      "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie1\\obj\\",
+      "projectPath": "C:\\Users\\Алексей\\Desktop\\GB\\HausArb\\HW5\\Zadanie1\\Zadanie1.csproj",
+      "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Алексей\\Desktop\\GB\\HausArb\\HW5\\Zadanie1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
