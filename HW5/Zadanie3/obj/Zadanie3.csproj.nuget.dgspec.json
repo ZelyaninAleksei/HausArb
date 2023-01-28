@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie31\\Zadanie3.csproj": {}
+    "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie3\\Zadanie3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie31\\Zadanie3.csproj": {
+    "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie3\\Zadanie3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie31\\Zadanie3.csproj",
+        "projectUniqueName": "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie3\\Zadanie3.csproj",
         "projectName": "Zadanie3",
-        "projectPath": "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie31\\Zadanie3.csproj",
+        "projectPath": "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie3\\Zadanie3.csproj",
         "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie31\\obj\\",
+        "outputPath": "C:\\Users\\super\\Desktop\\HausArb\\HW5\\Zadanie3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config"
