@@ -14,7 +14,7 @@ int[] FillingArray(int[] baseArray, string message) //Функция запол�
 {
     for (int i = 0; i < baseArray.Length; i++)
     {
-        System.Console.WriteLine(message + $" {i}-->");
+        System.Console.WriteLine(message + $"-->");
         baseArray[i] = Convert.ToInt32(Console.ReadLine());
     }
     return baseArray;
@@ -22,10 +22,10 @@ int[] FillingArray(int[] baseArray, string message) //Функция запол�
 
 void DisplayElements(int[] baseArray) //Процедура вывода индекса и присвоенного элемента (для проверки)
 {
-    System.Console.WriteLine("Введённые элементы массива:");
+    System.Console.WriteLine("Введённые числа:");
     for (int i = 0; i < baseArray.Length; i++)
     {
-        System.Console.WriteLine($" {i + 1}) Индекс массива = {i} элемент = {baseArray[i]}");
+        System.Console.WriteLine($"{baseArray[i]}");
     }
 }
 
@@ -40,14 +40,14 @@ void FindNum(int[] baseArray) //Процедура проверки услови
         }
     }
     Console.ForegroundColor = ConsoleColor.Green;
-    System.Console.WriteLine($"Количество элементов массива со значением больше нуля составляет --> {count}");
+    System.Console.WriteLine($"Количество чисел со значением больше нуля составляет --> {count}");
     Console.ResetColor();
 }
 
 
 
-int[] baseArray = CreatArray("Введите размер массива");
-string message = $"Введите значение элемента с индексом №";
+int[] baseArray = CreatArray("Введите количество чисел для ввода");
+string message = $"Введите число";
 FillingArray(baseArray, message);
 DisplayElements(baseArray);
 FindNum(baseArray);
