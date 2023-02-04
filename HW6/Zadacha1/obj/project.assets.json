@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\super\\Desktop\\HausArb\\HW6\\Zadacha1\\Zadacha1.csproj",
+      "projectUniqueName": "C:\\Users\\super\\Desktop\\Учёба\\GB\\C#\\HausArb\\HW6\\Zadacha1\\Zadacha1.csproj",
       "projectName": "Zadacha1",
-      "projectPath": "C:\\Users\\super\\Desktop\\HausArb\\HW6\\Zadacha1\\Zadacha1.csproj",
+      "projectPath": "C:\\Users\\super\\Desktop\\Учёба\\GB\\C#\\HausArb\\HW6\\Zadacha1\\Zadacha1.csproj",
       "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\super\\Desktop\\HausArb\\HW6\\Zadacha1\\obj\\",
+      "outputPath": "C:\\Users\\super\\Desktop\\Учёба\\GB\\C#\\HausArb\\HW6\\Zadacha1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config"
