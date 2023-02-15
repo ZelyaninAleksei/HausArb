@@ -1,0 +1,15 @@
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\super\Desktop\Учёба\GB\C#\HausArb\HW9\Task1\obj\Debug\net7.0\ref\Task1.dll
